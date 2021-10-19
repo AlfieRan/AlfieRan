@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm **Alfie Ranstead** and I make stuff on computers.
 
+quick warning - I only recently started using github properly so I have a lot more projects that are either private or not on here, which is why I have so few repos.
+
 - 🔭 I’m currently working on an entertinment platform named "monopage", you can visit it at https://monopage.app although I am currently working on the backend so there is just a temporary page at that link currently.
 - I also have a youtube channel (https://youtube.com/c/unofedeo) although I'm more interested in the algorithm than actually making videos so I don't upload much.
 - 🌱 I’m currently learning Computer Science, Maths, Further Maths & Physics for A Level and will be (hopefully) taking computer science at university.
