@@ -8,5 +8,5 @@ quick warning - I only recently started using github properly so I have a lot mo
 - 👯 I’m looking to collaborate on MonoPage in the future, provided it reaches a point upon which it gains investment and I can afford to pay collaborators fairly.
 - 💬 Ask me about anything! I probably won't have an educated answer but I will have **an** answer.
 - 📫 How to reach me: email uno.fedeo@gmail.com or alfie.ranstead@outlook.com, although my outlook tends to get a bit more spam so I may miss your email if you send one there.
-- 😄 Pronouns are words and I attach little meaning to them so refer to me however you want.
+- 😄 Pronouns: any.
 - ⚡ Fun fact: I made FunkyTabs, and it's pretty Funky
