@@ -1,6 +1,13 @@
 # Hi there 👋 I'm **Alfie Ranstead** and I make stuff on computers.
 
-quick warning - Most of my projects are either private or not on here, which is why I have so few repos relative to how long I've been programming.
+I'm a mathematical programmer who's been programming since 2015, although I really got into web development in the summer of 2021 (a couple months before I started actually using github) and have been fullstack developing various web projects non-stop since then. 
+
+### Areas I'm interested in:
+ - Full Stack Web Development -> I love both Front and Back end Web Development and am happy to do both, although I wouldn't recommend letting me pick your colourscheming otherwise it'll probably end up very minimilistic!
+ - A.I. -> Mainly Nueral Networks & Q learning (Love a good old Q Table)
+ - Recommendation Algorithms -> The maths behind these really really fascinates me and I love to mess around with my own.
+ - Complex Stuff with Challenging Maths -> Anything that makes my brain start to hurt is the kind of stuff I'll spend hours on until I fully grasp and solve it!
+ - Logically Complex Programming -> I love to break new challenges down and seeing the solutions evolve from simple and small to a complex and large.
 
 ## I'm Open to Work - Freelance & Part time
 | | |
@@ -10,22 +17,5 @@ quick warning - Most of my projects are either private or not on here, which is 
 | Twitter: | [alfieranstead](twitter.com/alfieranstead) |
 | Youtube: | [UnoFedeo](youtube.com/c/unofedeo) |
 | | |
-
-
-## Languages I know:
- - Typescript
- - Javasript
- - Python
- - Vlang
- - C# (haven't used this in a couple years)
- - A little bit of x86 Assembly
-
-## Tech I love:
- - React
- - Next.js
- - Docker
- - Express Api
- - PostgreSQL/Prisma
- - Chrakra Ui
 
 ![](https://komarev.com/ghpvc/?username=AlfieRan)
