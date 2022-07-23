@@ -1,12 +1,16 @@
-### Hi there 👋 I'm **Alfie Ranstead** and I make stuff on computers.
+# Hi there 👋 I'm **Alfie Ranstead** and I make stuff on computers.
 
 quick warning - Most of my projects are either private or not on here, which is why I have so few repos relative to how long I've been programming.
 
 ## I'm Open to Work - Freelance & Part time
-Email: alfie.ranstead@outlook.com
-[Personal Website](alfieranstead.com)
-[Twitter](twitter.com/alfieranstead)
-[Youtube](youtube.com/c/unofedeo)
+| | |
+|---|---|
+| Email: | alfie.ranstead@outlook.com |
+| Website: | [alfieranstead.com](alfieranstead.com) |
+| Twitter: | [alfieranstead](twitter.com/alfieranstead) |
+| Youtube: | [UnoFedeo](youtube.com/c/unofedeo) |
+| | |
+
 
 ## Languages I know:
  - Typescript
