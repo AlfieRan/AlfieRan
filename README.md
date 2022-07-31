@@ -13,9 +13,9 @@ I'm a mathematical programmer who's been programming since 2015, although I real
 | | |
 |---|---|
 | Email: | alfie.ranstead@outlook.com |
-| Website: | [alfieranstead.com](alfieranstead.com) |
-| Twitter: | [alfieranstead](twitter.com/alfieranstead) |
-| Youtube: | [UnoFedeo](youtube.com/c/unofedeo) |
+| Website: | [alfieranstead.com](https://alfieranstead.com) |
+| Twitter: | [alfieranstead](https://twitter.com/alfieranstead) |
+| Youtube: | [UnoFedeo](https://youtube.com/c/unofedeo) |
 | | |
 
 ![](https://komarev.com/ghpvc/?username=AlfieRan)
