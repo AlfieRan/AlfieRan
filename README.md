@@ -9,7 +9,7 @@ I'm a mathematical programmer who's been programming since 2015, although I real
  - Complex Stuff with Challenging Maths -> Anything that makes my brain start to hurt is the kind of stuff I'll spend hours on until I fully grasp and solve it!
  - Logically Complex Programming -> I love to break new challenges down and seeing the solutions evolve from simple and small to a complex and large.
 
-## I'm Open to Work - Freelance & Part time
+## Get in Touch
 | | |
 |---|---|
 | Email: | alfie.ranstead@outlook.com |
