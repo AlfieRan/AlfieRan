@@ -12,7 +12,7 @@ I'm a mathematical programmer who's been programming since 2015, although I real
 ## Get in Touch
 | | |
 |---|---|
-| Email: | alfie.ranstead@outlook.com |
+| Email: | [hi@alfieranstead.com](mailto:hi@alfieranstead.com) |
 | Website: | [alfieranstead.com](https://alfieranstead.com) |
 | Twitter: | [alfieranstead](https://twitter.com/alfieranstead) |
 | Youtube: | [UnoFedeo](https://youtube.com/c/unofedeo) |
