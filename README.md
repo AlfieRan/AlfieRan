@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **Alfie Ranstead** and I make stuff on computers.
 
-I'm a mathematical programmer who's been programming since 2015, although I really got into web development in the summer of 2021 (a couple months before I started actually using github) and have been fullstack developing various web projects non-stop since then. 
+I'm a mathematical programmer who's been programming since 2013, although I really got into web development in the summer of 2021 (a couple months before I started actually using github) and have been fullstack developing various web projects non-stop since then. 
 
 ### Areas I'm interested in:
  - Full Stack Web Development -> Nextjs + Express Api Typescript Monorepos are the best kind of repos 🔥
