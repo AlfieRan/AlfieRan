@@ -2,7 +2,7 @@
 
 I love to create things, and computers let me do that quickly.
 
-CTO & Co-Founder at [Elo AI](https://elo.ai)
+CTO & Co-Founder at [Instruct](https://joininstruct.com)
 
 ## Get in Touch
 | | |
